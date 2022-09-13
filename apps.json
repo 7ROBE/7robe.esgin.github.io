@@ -1,0 +1,49 @@
+{
+    "name": "apps",
+    "identifier": "7ROBE.github.io",
+    "sourceURL": "https://raw.githubusercontent.com/7ROBE/7robe.esgin.github.io/main/apps.json",
+    "apps": [
+        {
+            "name": "PPSSPP",
+            "bundleIdentifier": "org.ppsspp.ppsspp",
+            "developerName": "henrikrydgard",
+            "version": "1.13.1b",
+            "versionDate": "2022-09-13T14:01:17+08:00",
+            "versionDescription": "Emulator For Playstation Portable",
+            "downloadURL": "https://p.xx.wtf/PPSSPP_v1.13.1b-99-g7b47ba802.ipa",
+            "localizedDescription": "PPSSPP Fast Emulator For PSP on Ios",
+            "iconURL": "https://www.ppsspp.org/img/ppsspp-icon.png",
+            "tintColor": "addbe8",
+            "isLanZouCloud": 0,
+            "size": 33869004
+        },
+        {
+            "name": "Flycast",
+            "bundleIdentifier": "com.flyinghead.Flycast",
+            "developerName": "flyinghead",
+            "version": "v2.0",
+            "versionDate": "2022-08-29T16:18:00+08:00",
+            "versionDescription": "Flycast is Dreamcast and Naomi Emulator",
+            "downloadURL": "https://github.com/flyinghead/flycast/releases/download/v2.0/Flycast-2.0.ipa",
+            "localizedDescription": "Require JIT",
+            "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
+            "tintColor": "8e49f6",
+            "isLanZouCloud": 0,
+            "size": 14680064
+        },
+        {
+            "name": "Play!",
+            "bundleIdentifier": "com.virtualapplications.play",
+            "developerName": "jpd002",
+            "version": "0.56-15-g18c5282d",
+            "versionDate": "2022-09-13T16:18:00+08:00",
+            "versionDescription": "Play! PS2 Emulator",
+            "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/18c5282d/Play.ipa",
+            "localizedDescription": "Require JIT",
+            "iconURL": "https://raw.githubusercontent.com/jpd002/Play-/master/icons/icon_base_512x512.png",
+            "tintColor": "6a6aeb",
+            "isLanZouCloud": 0,
+            "size": 13316915
+        }
+    ]
+}
