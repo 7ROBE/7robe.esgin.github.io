@@ -39,7 +39,7 @@
             "versionDate": "2022-09-13T16:18:00+08:00",
             "versionDescription": "Play! PS2 Emulator",
             "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/18c5282d/Play.ipa",
-            "localizedDescription": "Require JIT",
+            "localizedDescription": "Require JIT. ",
             "iconURL": "https://raw.githubusercontent.com/jpd002/Play-/master/icons/icon_base_512x512.png",
             "tintColor": "6a6aeb",
             "isLanZouCloud": 0,
