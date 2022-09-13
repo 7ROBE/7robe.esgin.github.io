@@ -1,0 +1,49 @@
+{
+    "name": "apps",
+    "identifier": "7ROBE.github.io",
+    "sourceURL": "https://esign.yyyue.xyz/apps.json",
+    "apps": [
+        {
+            "name": "PPSSPP",
+            "bundleIdentifier": "org.ppsspp.ppsspp",
+            "developerName": "henrikrydgard",
+            "version": "1.13.1b",
+            "versionDate": "2022-09-13T14:01:17+08:00",
+            "versionDescription": "Emulator For Playstation Portable",
+            "downloadURL": "https://p.xx.wtf/PPSSPP_v1.13.1b-99-g7b47ba802.ipa",
+            "localizedDescription": "PPSSPP Fast Emulator For PSP on Ios",
+            "iconURL": "https://www.ppsspp.org/img/ppsspp-icon.png",
+            "tintColor": "addbe8",
+            "isLanZouCloud": 0,
+            "size": 33869004
+        },
+        {
+            "name": "轻松签-ESign",
+            "bundleIdentifier": "p3.xyz.yyyue.esign",
+            "developerName": "yyy",
+            "version": "4.6.1",
+            "versionDate": "2022-09-12T16:18:00+08:00",
+            "versionDescription": "支持永久安装（TrollStroe方式）,仅支持iOS15.0-15.1.1,需使用ESignInstaller安装器安装才行。\n修复Alist登录问题, 登录是要用你网盘的默认网址 + 后台管理密码，不是加密文件夹的密码\n文件列表支持多选文件\n支持自己搭建的Alist网盘\nSupport permanent install,like trollStore(only 15.0-15.1.1),You need to install it using the ESignInstaller\nFile list supports multiple files \nsupports self-built Alist web disk",
+            "downloadURL": "https://pan.yyyue.xyz/d/esign/ESign_4.6.1_iPhone%20Distribution:%20AIA%20BHD..ipa",
+            "localizedDescription": "轻松签是一款免越狱可给ipa签名的工具，具有注入库，去库等功能。",
+            "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362
+        },
+        {
+            "name": "ESignInstaller",
+            "bundleIdentifier": "com.yyyue.ESignInstall",
+            "developerName": "yyy",
+            "version": "1.0",
+            "versionDate": "2022-09-12T16:18:00+08:00",
+            "versionDescription": "轻松签安装器，类似TrollInstaller,想要永久安装的就要通过这个安装轻松签，只支持iOS15.0-15.1.1\nESign installer, like TrollInstaller, want to permanently install through this install ESign, only supports ios 15.0-15.1.1",
+            "downloadURL": "https://pan.yyyue.xyz/d/esign/ESignInstall_4.6.1.ipa",
+            "localizedDescription": "轻松签是一款免越狱可给ipa签名的工具，具有注入库，去库等功能。",
+            "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362
+        }
+    ]
+}
