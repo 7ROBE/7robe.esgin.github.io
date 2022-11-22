@@ -1,0 +1,45 @@
+{
+    "icon": "https://raw.githubusercontent.com/haxi0/TrollApps/main/assets/TrollApps-modified.png?width=419&height=419",
+    "name": "TrollApps's Source",
+    "apps": [
+      {
+        "title": "Jaility",
+        "urlimg": "https://media.discordapp.net/attachments/969879614379921418/1042855197803827250/Icon-83_52x.png",
+        "url": "https://github.com/haxi0/Jaility/releases/download/3.1.1/Jaility-3.1.1.ipa",
+        "bundleid": "org.haxi0.Jaility",
+        "completed": false
+      },
+      {
+        "title": "PPSSPP",
+        "urlimg": "https://www.ppsspp.org/img/ppsspp-icon.png",
+        "url": "https://p.xx.wtf/PPSSPP_v1.13.2-2006-g9c21951ef.ipahttps://p.xx.wtf/PPSSPP_v1.13.2-2006-g9c21951ef.ipa",
+        "bundleid": "org.ppsspp.ppsspp",
+        "completed": false
+      }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ]
+  }
