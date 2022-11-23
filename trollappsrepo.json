@@ -11,9 +11,9 @@
       },
       {
         "title": "PPSSPP",
-        "urlimg": "https://www.ppsspp.org/img/ppsspp-icon.png",
-        "url": "https://p.xx.wtf/PPSSPP_v1.13.2-2006-g9c21951ef.ipahttps://p.xx.wtf/PPSSPP_v1.13.2-2006-g9c21951ef.ipa",
-        "bundleid": "org.ppsspp.ppsspp",
+        "urlimg": "https://raw.githubusercontent.com/CriticalRange/PojavLauncher/v3_openjdk/app_pojavlauncher/src/main/assets/pojavlauncher.png",
+        "url": "https://github.com/7ROBE/7robe.github.io/releases/download/pojav/net.kdt.pojavlauncher-2.1.ipa",
+        "bundleid": "net.kdt.pojavlauncher",
         "completed": false
       }
     
