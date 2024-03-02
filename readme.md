@@ -7,7 +7,7 @@
 </p>
 <br/><br/>
 
-# ⚡What is movie-web?
+# ⚡What is movie-web? This is Self-hosted!
 
 movie-web is a web app for watching movies easily.
 
