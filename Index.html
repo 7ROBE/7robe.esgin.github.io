@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Super Coin Collector</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="game-container">
+        <div id="hud">
+            <div id="score">Score: 0</div>
+            <div id="highScore">High Score: 0</div>
+            <div id="activePowerups"></div>
+        </div>
+        <canvas id="gameCanvas"></canvas>
+        <div id="gameOver" class="hidden">
+            <h2>Game Over!</h2>
+            <p>Final Score: <span id="finalScore">0</span></p>
+            <button id="restart">Play Again</button>
+        </div>
+        <div id="touchControls">
+            <div id="joystick"></div>
+        </div>
+    </div>
+
+    <!-- Audio Elements -->
+    <audio id="coinSound" src="coin.wav"></audio>
+    <audio id="powerupSound" src="powerup.wav"></audio>
+    <audio id="gameOverSound" src="gameover.wav"></audio>
+    <audio id="bgMusic" src="background-music.mp3" loop></audio>
+
+    <script src="game.js"></script>
+</body>
+</html>
